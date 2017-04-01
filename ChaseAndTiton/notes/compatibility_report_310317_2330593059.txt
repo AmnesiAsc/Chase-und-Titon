@@ -1,0 +1,11 @@
+!!! Font fntMenuSignB uses a font (Arial Black) not installed on this system. Font has NOT been regenerated.
+Converting GML script : ${project_dir}\objects\ctrlMenuSign\Create_0.gml
+Converted string : line 8 : "\Saves\" -> "\\Saves\\"
+Converted string : line 9 : "\*.cat" -> "\\*.cat"
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit.
+!!! Font fntMenuSignF uses a font (Arial Black) not installed on this system. Font has NOT been regenerated.
+game speed set to 60
+added compatibility script instance/instance_create.gml
+added compatibility script object/object_get_depth.gml
+added compatibility script __global_object_depths.gml
